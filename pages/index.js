@@ -9,7 +9,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>sup, insert your headline here</h1>
+            <h1>AI-powered WhatsApp shopping assistant is helpful. It's akin to chatting with a friend who can instantly send you product photos, details, and prices. Shopping becomes effortless, just like texting!</h1>
           </div>
           <div className="header-subtitle">
             <h2>insert your subtitle here</h2>
