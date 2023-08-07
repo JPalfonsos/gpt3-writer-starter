@@ -23,14 +23,9 @@ const Home = () => {
             <h2>insert your subtitle here</h2>
           </div>
         </div>
-        <textarea
-  className="prompt-box"
-  placeholder="start typing here"
-  value={userInput}
-  onChange={onUserChangedText}
-/>;
+       
         <div className="prompt-container">
-          <textarea placeholder="start typing here" className="prompt-box" />
+          <textarea placeholder="start typing here" className="prompt-box"  value={userInput} onChange={onUserChangedText} />
         </div>
       </div>
       <div className="badge-container grow">
