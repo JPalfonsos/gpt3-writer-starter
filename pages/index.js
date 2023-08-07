@@ -26,7 +26,7 @@ const Home = () => {
        
         <div className="prompt-container">
           <textarea 
-               placeholder="start typing here" 
+               placeholder="Start Searching Products and Uncover Hidden Gems: Our AI Scours Thousands of Stores for the Best Prices!" 
                className="prompt-box"  
                value={userInput} 
                onChange={onUserChangedText} />
